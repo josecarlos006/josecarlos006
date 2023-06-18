@@ -1,8 +1,8 @@
 ## Olá👋, Me chamo José Carlos.
 - 👦🏽 Tenho 17 anos
-- 🤓 Sou Estudante de Desenvolvimento de Sistema
 - 🧑‍💻 Sou Desenvolvedor Web Front-End - Junior
 - 🎓 Estudando jQuery
+- 🤓 Ainda estou no 3° ano do Ensino médio e estou cursando Desenvolvimento de Sistemas
 - 🙋🏽 Pronouns: Ele/Dele
 
 
@@ -14,7 +14,7 @@
 #### Meus Stats
 
  <div>
-   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=josecarlos006&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=66cc00&icon_color=66cc00&text_color=c9d1d9&bg_color=0d1117"/>
+   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=josecarlos006&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=66cc00&icon_color=66cc00&text_color=c9d1d9&bg_color=0d1117"/>
  </div>
 
 
