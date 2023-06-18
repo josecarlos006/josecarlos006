@@ -2,7 +2,7 @@
 - 👦🏽 Tenho 17 anos
 - 🧑‍💻 Sou Desenvolvedor Web Front-End - Junior
 - 🎓 Estudando jQuery
-- 🤓 Ainda estou no 3° ano do Ensino médio e estou cursando Desenvolvimento de Sistemas
+- 🤓 Ainda estou no 3° ano do Ensino médio
 - 🙋🏽 Pronouns: Ele/Dele
 
 
