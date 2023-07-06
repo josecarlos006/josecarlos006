@@ -14,7 +14,7 @@
 #### Meus Stats
 
  <div>
-   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=josecarlos006&show=reviews"/>
+   ![Jose Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=josecarlos006&show_icons=true&theme=radical)
  </div>
 
 
