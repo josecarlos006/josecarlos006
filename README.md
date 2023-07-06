@@ -6,19 +6,13 @@
 - 🙋🏽 Pronouns: Ele/Dele
 
 
-#### Linguagens que uso
+#### Linguagens de programação que uso:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" width="52" alt="html5 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" width="52" alt="html5 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="html5 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="40" width="52" alt="html5 logo" />
 
- 
-#### Meus Stats
-
- <div>
-   <img heigt="180" src"https://github-readme-stats.vercel.app/api?username=josecarlos006&show_icons=true&theme=radical"/>
- </div>
 
 
-#### Minhas Redes
+#### Minhas Redes:
 
 <a href="https://www.linkedin.com/in/jos%C3%A9-carlos-5b5893272/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
