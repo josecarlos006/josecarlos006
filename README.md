@@ -5,7 +5,7 @@
 - 🤓 Ainda estou no 3° ano do Ensino médio
 - 🙋🏽 Pronouns: Ele/Dele
 
-![José Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=josecarlos006&show_icons=true)
+![José Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=josecarlos006&show_icons=true&theme=dracula)
 
 #### Linguagens de programação que uso:
 
