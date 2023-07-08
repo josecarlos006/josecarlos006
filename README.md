@@ -5,6 +5,11 @@
 - 🤓 Ainda estou no 3° ano do Ensino médio
 - 🙋🏽 Pronouns: Ele/Dele
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews)
+<div>
+   
+</div>
+
 
 #### Linguagens de programação que uso:
 
