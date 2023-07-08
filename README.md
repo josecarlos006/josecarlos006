@@ -6,6 +6,7 @@
 - 🙋🏽 Pronouns: Ele/Dele
 
 ![José Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=josecarlos006&show=reviews)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josecarlos006&layout=compact)
 <div>
    
 </div>
