@@ -1,7 +1,7 @@
 ## Olá👋, Me chamo José Carlos.
 - 👦🏽 Tenho 17 anos
 - 🧑‍💻 Sou Desenvolvedor Web Front-End - Junior
-- 🎓 Estudando SQL and Python
+- 🎓 Estudando a área de Back-End
 - 🤓 Ainda estou no 3° ano do Ensino médio
 - 🙋🏽 Pronouns: Ele/Dele
 
