@@ -13,7 +13,7 @@
 #### Skills:
 
 <img align="center" alt="Jose-Bot" height="30" width="40" src="https://devicons.dev.br/icons?icon=DiscordBots&theme=dark"/>
-<img align="center" alt="Jose-Bot" height="30" width="40" src="https://devicons.dev.br/icons?icon=JavaScript&theme=dark"/>
+<img alt="Jose-Bot" height="30" width="40" src="https://devicons.dev.br/icons?icon=JavaScript&theme=dark"/>
 <img align="center" alt="Jose-Bot" height="30" width="40" src="https://devicons.dev.br/icons?icon=HTML&theme=dark"/>
 <img align="center" alt="Jose-Bot" height="30" width="40" src="https://devicons.dev.br/icons?icon=CSS&theme=dark"/>
 
