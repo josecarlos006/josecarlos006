@@ -14,6 +14,8 @@
 <div style="display: inline-block"><br>
 <img align="center" alt="Jose-Bot" height="50" width="70" src="https://devicons.dev.br/icons?icon=DiscordBots&theme=dark"/>
 <img align="center" alt="Jose-Bot" height="50" width="70" src="https://devicons.dev.br/icons?icon=JavaScript&theme=dark"/>
+   <img align="center" alt="Jose-Bot" height="50" width="70" src="https://devicons.dev.br/icons?icon=TypeScrip&theme=dark"/>
+   <img align="center" alt="Jose-Bot" height="50" width="70" src="https://devicons.dev.br/icons?icon=Python&theme=dark"/>
 <img align="center" alt="Jose-Bot" height="50" width="70" src="https://devicons.dev.br/icons?icon=HTML&theme=dark"/>
 <img align="center" alt="Jose-Bot" height="50" width="70" src="https://devicons.dev.br/icons?icon=CSS&theme=dark"/>
 </div>
