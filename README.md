@@ -12,8 +12,7 @@
 
 #### Skills:
 <div style="display: inline-block"><br>
-<img align="center" alt="Jose-Bot" height="50" width="70" src="https://devicons.dev.br/icons?icon=VSCode,HTML,CSS,JavaScript,Python,TypeScript,CS&theme=dark
-"/>
+<img src="https://devicons.dev.br/icons?icon=VSCode,HTML,CSS,JavaScript,Python,TypeScript,CS&theme=dark"/>
 </div>
 
 
