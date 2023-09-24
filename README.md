@@ -11,13 +11,13 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/35a40b52-038e-4388-8053-0b9a17228e27/deploy-status)](https://app.netlify.com/sites/vamos-filosofar/deploys)
 
 #### Skills:
-
 <div style="display: inline-block"><br>
-<img align="center" alt="Jose-Bot" height="30" width="40" src="https://devicons.dev.br/icons?icon=DiscordBots&theme=dark"/>
-<img align="center" alt="Jose-Bot" height="30" width="40" src="https://devicons.dev.br/icons?icon=JavaScript&theme=dark"/>
-<img align="center" alt="Jose-Bot" height="30" width="40" src="https://devicons.dev.br/icons?icon=HTML&theme=dark"/>
-<img align="center" alt="Jose-Bot" height="30" width="40" src="https://devicons.dev.br/icons?icon=CSS&theme=dark"/>
+<img align="center" alt="Jose-Bot" height="50" width="40" src="https://devicons.dev.br/icons?icon=DiscordBots&theme=dark"/>
+<img align="center" alt="Jose-Bot" height="50" width="40" src="https://devicons.dev.br/icons?icon=JavaScript&theme=dark"/>
+<img align="center" alt="Jose-Bot" height="50" width="40" src="https://devicons.dev.br/icons?icon=HTML&theme=dark"/>
+<img align="center" alt="Jose-Bot" height="50" width="40" src="https://devicons.dev.br/icons?icon=CSS&theme=dark"/>
 </div>
+
 
 #### Minhas Redes:
 
