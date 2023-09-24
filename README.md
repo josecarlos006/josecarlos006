@@ -10,18 +10,13 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/35a40b52-038e-4388-8053-0b9a17228e27/deploy-status)](https://app.netlify.com/sites/vamos-filosofar/deploys)
 
-#### Linguagens de programação que uso:
+#### Skills:
 
 <img align="center" alt="Jose-Bot" height="30" width="40" src="https://devicons.dev.br/icons?icon=DiscordBots&theme=dark"/>
+<img align="center" alt="Jose-Bot" height="30" width="40" src="https://devicons.dev.br/icons?icon=JavaScript&theme=dark"/>
+<img align="center" alt="Jose-Bot" height="30" width="40" src="https://devicons.dev.br/icons?icon=HTML&theme=dark"/>
+<img align="center" alt="Jose-Bot" height="30" width="40" src="https://devicons.dev.br/icons?icon=CSS&theme=dark"/>
 
-<a href="#">
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js-logo" />
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/> 
-   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</a>
 
 
 #### Minhas Redes:
