@@ -10,9 +10,14 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/35a40b52-038e-4388-8053-0b9a17228e27/deploy-status)](https://app.netlify.com/sites/vamos-filosofar/deploys)
 
-#### Skills:
+## Skills Front-End:
 <div style="display: inline-block"><br>
-<img src="https://devicons.dev.br/icons?icon=VSCode,HTML,CSS,,Sass,JavaScript,Python,TypeScript,CS,Discord,DiscordBots&theme=dark"/>
+<img src="https://devicons.dev.br/icons?icon=VSCode,HTML,CSS,,Sass,JavaScript&theme=dark"/>
+</div>
+
+## Skills Dev. Discord:
+<div style="display: inline-block"><br>
+   <img src="https://devicons.dev.br/icons?icon=VSCode,JavaScript,Python,TypeScript,CS,Discord,DiscordBots&theme=dark"/>
 </div>
 
 
