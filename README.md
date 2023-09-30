@@ -12,7 +12,7 @@
 
 #### Skills:
 <div style="display: inline-block"><br>
-<img src="https://devicons.dev.br/icons?icon=VSCode,HTML,CSS,JavaScript,Python,TypeScript,CS,Discord,DiscordBots&theme=dark"/>
+<img src="https://devicons.dev.br/icons?icon=VSCode,HTML,Sass,JavaScript,Python,TypeScript,CS,Discord,DiscordBots&theme=dark"/>
 </div>
 
 
