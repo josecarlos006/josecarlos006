@@ -12,12 +12,12 @@
 
 ## Skills Front-End:
 <div style="display: inline-block"><br>
-<img src="https://devicons.dev.br/icons?icon=VSCode,HTML,CSS,,Sass,JavaScript&theme=dark"/>
+<img src="https://devicons.dev.br/icons?icon=VSCode,HTML,CSS,,JavaScript&theme=dark"/>
 </div>
 
 ## Skills Dev. Discord:
 <div style="display: inline-block"><br>
-   <img src="https://devicons.dev.br/icons?icon=VSCode,JavaScript,Python,TypeScript,CS,DiscordBots&theme=dark"/>
+   <img src="https://devicons.dev.br/icons?icon=VSCode,JavaScript,Python,TypeScript,DiscordBots&theme=dark"/>
 </div>
 
 
