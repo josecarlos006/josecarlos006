@@ -1,12 +1,4 @@
-## Olá👋, Me chamo José Carlos.
-- 👦🏽 Tenho 18 anos
-- 🧑‍💻 Sou Desenvolvedor Web Front-End - Junior
-- 🎓 Estudando a área de Back-End
-- 📔 3/3 Tec. Desenvolvimento de Sistema
-- 🎓 0/5 Analise e Desenvolvimento de Sistema
-- 🙋🏽 Pronouns: Ele/Dele
-
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+José+Carlos;I'm+18+years+old;I+am+from+Paudalho,+Pernambuco,+BR;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
