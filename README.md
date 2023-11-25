@@ -13,12 +13,17 @@
 
 
 ## Skills:
-<div style="display: inline-block"><br>
+<div><br>
    <img align="center" height="50" width="50" src="https://devicons.dev.br/icons?icon=CSS&theme=dark"/>
    <img align="center" height="50" width="50" src="https://devicons.dev.br/icons?icon=HTML&theme=dark"/>
    <img align="center" height="50" width="50" src="https://devicons.dev.br/icons?icon=Java&theme=light"/>
    <img align="center" height="50" width="50" src="https://devicons.dev.br/icons?icon=JavaScript&theme=light"/>
    <img align="center" height="50" width="50" src="https://devicons.dev.br/icons?icon=Python&theme=dark"/>
+</div>
+
+## IDE:
+<div style="display: inline-block">
+   
 </div>
 
 
