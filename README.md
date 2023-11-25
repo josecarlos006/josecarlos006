@@ -2,7 +2,8 @@
 - 👦🏽 Tenho 17 anos
 - 🧑‍💻 Sou Desenvolvedor Web Front-End - Junior
 - 🎓 Estudando a área de Back-End
-- 🤓 Ainda estou no 3° ano do Ensino médio
+- 📔 3/3 Tec. Desenvolvimento de Sistema
+- 🎓 0/5 Analise e Desenvolvimento de Sistema
 - 🙋🏽 Pronouns: Ele/Dele
 
 ![José Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=josecarlos006&show_icons=true&theme=dracula)
@@ -10,14 +11,9 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/35a40b52-038e-4388-8053-0b9a17228e27/deploy-status)](https://app.netlify.com/sites/vamos-filosofar/deploys)
 
-## Skills Front-End:
+## Skills:
 <div style="display: inline-block"><br>
-<img src="https://devicons.dev.br/icons?icon=VSCode,HTML,CSS,,JavaScript&theme=dark"/>
-</div>
-
-## Skills Dev. Discord:
-<div style="display: inline-block"><br>
-   <img src="https://devicons.dev.br/icons?icon=VSCode,JavaScript,Python,TypeScript,DiscordBots&theme=dark"/>
+   <img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 </div>
 
 
