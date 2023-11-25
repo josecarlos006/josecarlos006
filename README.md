@@ -1,5 +1,5 @@
 ## Olá👋, Me chamo José Carlos.
-- 👦🏽 Tenho 17 anos
+- 👦🏽 Tenho 18 anos
 - 🧑‍💻 Sou Desenvolvedor Web Front-End - Junior
 - 🎓 Estudando a área de Back-End
 - 📔 3/3 Tec. Desenvolvimento de Sistema
@@ -8,12 +8,18 @@
 
 ![José Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=josecarlos006&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josecarlos006&layout=compact&theme=dracula)
+![Netlify Status](https://api.netlify.com/api/v1/badges/35a40b52-038e-4388-8053-0b9a17228e27/deploy-status)](https://app.netlify.com/sites/vamos-filosofar/deploys)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/35a40b52-038e-4388-8053-0b9a17228e27/deploy-status)](https://app.netlify.com/sites/vamos-filosofar/deploys)
 
 ## Skills:
 <div style="display: inline-block"><br>
-   <img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+   <img align="center" height="30" width="40" src="[https://devicons.dev.br/icons?icon=AndroidStudio&theme=dark](https://devicons.dev.br/icons?icon=CSS&theme=dark)"/>
+   <img align="center" height="30" width="40" src=""/>
+   <img align="center" height="30" width="40" src=""/>
+   <img align="center" height="30" width="40" src=""/>
+   <img align="center" height="30" width="40" src=""/>
+   <img align="center" height="30" width="40" src=""/>
+   <img align="center" height="30" width="40" src=""/>
 </div>
 
 
