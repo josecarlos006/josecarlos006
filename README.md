@@ -18,23 +18,24 @@
 <a href="https://www.instagram.com/z_carlos.kkj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
-### Main skills:
+### Main skills Front-End:
 ![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Vue](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
+
+### Main skills Back-End:
 ![Next](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=Next.js&logoColor=4FC08D)&nbsp;
- 
+![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=coffeescript&labelColor=0D1117)&nbsp;
+
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Sublimetext](https://img.shields.io/badge/-Sublime_text-0D1117?style=for-the-badge&logo=sublime-text&labelColor=0D1117)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android_studio-0D1117?style=for-the-badge&logo=android-studio&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge: 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=coffeescript&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
