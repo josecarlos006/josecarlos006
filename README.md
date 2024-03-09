@@ -33,7 +33,7 @@
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=3E78F4)&nbsp;
 ![Sublimetext](https://img.shields.io/badge/-Sublime_text-0D1117?style=for-the-badge&logo=sublime-text&labelColor=0D1117)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android_studio-0D1117?style=for-the-badge&logo=android-studio&labelColor=0D1117)&nbsp;
   
