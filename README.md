@@ -24,7 +24,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
-![Next](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=Next.js&logoColor=4FC08D)&nbsp;
+![Next](https://img.shields.io/badge/Next.js-35495E?style=for-the-badge&logo=Next.js&logoColor=4FC08D)&nbsp;
 
 ### Main skills Back-End:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
