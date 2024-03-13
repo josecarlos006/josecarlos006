@@ -43,7 +43,6 @@
 ### IDE's:
 <div>
   <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/8da1f8ac-086d-4965-9507-b15595b0b5ef" alt="vs-code" width="50" height="50">
-  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/c9f61b4a-5a7b-4e93-ae07-f6066e4ba9e6" alt="windows" width="50" height="50">
   <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/9adb3938-a32d-4ddd-8e53-428ceb972f1e" alt="sublimetext" width="50" height="50">
   <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/2e0016eb-ca0c-4c1a-bc70-a37a0f94f176" alt="android-studio" width="50" height="50">
 </div>
