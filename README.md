@@ -21,7 +21,7 @@
  
 ### Main skills Front-End:
 <div align="center">
-  <img width="50px height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" width="50px height="50px" />
 </div>
             
           
