@@ -41,7 +41,7 @@
   <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/554028fe-7c8c-4c03-8e8a-b3157679fc34" alt="Java" width="50" height="50">
 </div>
 
-### Tools:
+### IDE's:
 <div>
   <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/8da1f8ac-086d-4965-9507-b15595b0b5ef" alt="vs-code" width="50" height="50">
   <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/c9f61b4a-5a7b-4e93-ae07-f6066e4ba9e6" alt="windows" width="50" height="50">
