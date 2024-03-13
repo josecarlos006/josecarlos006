@@ -16,36 +16,46 @@
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/z_carlos.kkj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/z_carlos.kkj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="jcsilvafilho13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://dev.to/josecarlos006" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </div> 
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+</div>
  
-### Main skills Front-End:          
-![CSS](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
-![Next](https://img.shields.io/badge/Next.js-35495E?style=for-the-badge&logo=Next.js&logoColor=4FC08D)&nbsp;
+### Main skills Front-End: 
+<div>
+  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/7a3e0af6-6b53-4546-8f58-6ea3c5bf612a" alt="HTML" width="50" height="50">
+  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/54ef47bc-524b-4c99-a282-b0e3f1e4cff1" alt="CSS" width="50" height="50">
+  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/c6c95466-d06d-4285-9895-5abfcbb2fed6" alt="JS" width="50" height="50">
+  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/6c805dfa-1916-4919-9c13-368fa58088e2" alt="VUE" width="50" height="50">
+  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/75dcaee8-f09f-4263-80cb-239a383f24b3" alt="NEXT" width="50" height="50">
+</div>
 
 ### Main skills Back-End:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+<div>
+  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/c6c95466-d06d-4285-9895-5abfcbb2fed6" alt="JS" width="50" height="50">
+  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/de930b87-dd76-413d-bdf3-35f3656b5828" alt="Python" width="50" height="50">
+  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/554028fe-7c8c-4c03-8e8a-b3157679fc34" alt="Java" width="50" height="50">
+</div>
 
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Sublimetext](https://img.shields.io/badge/-Sublime_text-0D1117?style=for-the-badge&logo=sublime-text&labelColor=0D1117)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android_studio-0D1117?style=for-the-badge&logo=android-studio&labelColor=0D1117)&nbsp;
+<div>
+  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/8da1f8ac-086d-4965-9507-b15595b0b5ef" alt="vs-code" width="50" height="50">
+  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/c9f61b4a-5a7b-4e93-ae07-f6066e4ba9e6" alt="windows" width="50" height="50">
+  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/9adb3938-a32d-4ddd-8e53-428ceb972f1e" alt="sublimetext" width="50" height="50">
+  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/2e0016eb-ca0c-4c1a-bc70-a37a0f94f176" alt="android-studio" width="50" height="50">
+</div>
   
 ### Studying in this moment:
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jose-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<div>
+  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/7502da46-c5c1-42d6-85b5-f8283166aeff" alt="MySQL" width="50" height="50">
+  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/54a3cb9a-5a98-473e-af0b-9f40a4953aa7" alt="PHP" width="50" height="50">
+  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/5692360d-c5d1-4708-a332-1b2dd7aacdb4" alt="C" width="50" height="50">
+  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/924913b4-b535-42ab-8270-c69f2cbf96c1" alt="C++" width="50" height="50">
+  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/e4e78336-0a64-4263-a2ed-739b10e8ba61" alt="C#" width="50" height="50">
 </div>
 
 
