@@ -37,7 +37,7 @@
 ### Main skills Back-End:
 <div>
   <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/554028fe-7c8c-4c03-8e8a-b3157679fc34" alt="Java" width="50" height="50">
-  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/5692360d-c5d1-4708-a332-1b2dd7aacdb4" alt="C" width="50" height="50">
+  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/924913b4-b535-42ab-8270-c69f2cbf96c1" alt="C++" width="50" height="50">
 </div>
 
 ### IDE's:
@@ -50,7 +50,7 @@
 ### Studying in this moment:
 <div>
   <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/7502da46-c5c1-42d6-85b5-f8283166aeff" alt="MySQL" width="50" height="50">
-  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/924913b4-b535-42ab-8270-c69f2cbf96c1" alt="C++" width="50" height="50">
+  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/5692360d-c5d1-4708-a332-1b2dd7aacdb4" alt="C" width="50" height="50">
   <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/e4e78336-0a64-4263-a2ed-739b10e8ba61" alt="C#" width="50" height="50">
 </div>
 
