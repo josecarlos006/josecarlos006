@@ -15,12 +15,14 @@
   <img width="49%" height="195px" src="https://github-profile-trophy.vercel.app/?username=josecarlos006&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+### Networks
 <div align="center">  
 <a href="https://www.instagram.com/z_carlos.kkj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="jcsilvafilho13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://dev.to/josecarlos006" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </div> 
 
+### Operational system
 <div align="center">
   <img src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 </div>
