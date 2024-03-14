@@ -16,16 +16,11 @@
 </p>
 
 ### Networks
-<div align="center">  
+<div>  
 <a href="https://www.instagram.com/z_carlos.kkj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="jcsilvafilho13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://dev.to/josecarlos006" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </div> 
-
-### Operational system
-<div align="center">
-  <img src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
-</div>
  
 ### Main skills Front-End: 
 <div>
