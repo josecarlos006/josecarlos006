@@ -30,8 +30,8 @@
   <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/7a3e0af6-6b53-4546-8f58-6ea3c5bf612a" alt="HTML" width="50" height="50">
   <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/54ef47bc-524b-4c99-a282-b0e3f1e4cff1" alt="CSS" width="50" height="50">
   <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/c6c95466-d06d-4285-9895-5abfcbb2fed6" alt="JS" width="50" height="50">
-  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/6c805dfa-1916-4919-9c13-368fa58088e2" alt="VUE" width="50" height="50">
   <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/75dcaee8-f09f-4263-80cb-239a383f24b3" alt="NEXT" width="50" height="50">
+  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/824e830c-787b-4931-b71e-f8631b21279d" alt="React" width="50" height="50">
 </div>
 
 ### Main skills Back-End:
