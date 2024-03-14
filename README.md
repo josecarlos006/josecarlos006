@@ -38,6 +38,7 @@
 <div>
   <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/554028fe-7c8c-4c03-8e8a-b3157679fc34" alt="Java" width="50" height="50">
   <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/924913b4-b535-42ab-8270-c69f2cbf96c1" alt="C++" width="50" height="50">
+  <img src="https://github.com/josecarlos006/josecarlos006/assets/130001671/c6c95466-d06d-4285-9895-5abfcbb2fed6" alt="JS" width="50" height="50">
 </div>
 
 ### IDE's:
