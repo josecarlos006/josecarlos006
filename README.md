@@ -11,7 +11,7 @@
 
  
 <h1 align="center">
-  <strong>Main skills Front-End:</strong>
+  <strong>Studying Front-End:</strong>
 </h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="50">
@@ -23,7 +23,7 @@
 </div>
 
 <h1 align="center">
-  <strong>Main skills Back-End:</strong>
+  <strong>Studying Back-End:</strong>
 </h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50">
@@ -41,16 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="VS CODE" width="50">
   <img src="https://img.icons8.com/?size=100&id=6RHskkZGRABM&format=png&color=000000" alt="SUBLIMETEXT" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="ANDROID STUDIO" width="50">
-</div>
-
-<h1 align="center">
-  <strong>Studying in this moment:</strong>
-</h1>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="JMongo Db" width="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="EXPRESS" width="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NEST.JS" width="50">
 </div>
 
 
