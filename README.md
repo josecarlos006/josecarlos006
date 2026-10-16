@@ -18,7 +18,7 @@
 - 🎓 Studying web development, focused on **Front-End**
 - 🌱 Currently learning **JavaScript** and building projects with vanilla HTML & CSS
 - 🎯 Goal: become a **Full-Stack Developer**
-- 📫 Reach me at **jcsilvafilho13@gmail.com**
+- 📫 Reach me at **devjosecarlos0@gmail.com**
 
 ## 🎨 Front-End
 
